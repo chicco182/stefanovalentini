@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
 
-    footercontent = "Enter a text here." # Add footer content
+    footercontent = "© Stefano Valentini" # Add footer content
     fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
     fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
@@ -48,15 +48,15 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 [[params.social]]
     name = "Github"
     weight = 1
-    url = "https://github.com/naro143/"
+    url = "https://github.com/chicco182/"
 [[params.social]]
     name = "Twitter"
     weight = 2
-    url = "https://twitter.com/naro143/"
+    url = "https://twitter.com/Valentini1982/"
 [[params.social]]
     name = "LinkedIn"
     weight = 3
-    url = "https://www.linkedin.com/in/naro143/"
+    url = "https://www.linkedin.com/in/stefanovalentini82/"
 
 # Menu links
 [[menu.main]]
