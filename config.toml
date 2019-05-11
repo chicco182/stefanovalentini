@@ -1,7 +1,7 @@
 baseURL = "https://chicco182.github.com/stefanovalentini/"
-languageCode = "en"
 title = "Stefano Valentini's site"
 theme = "coder"
+languagecode = "it"
 defaultcontentlanguage = "it" # The default content language.
 
 paginate = 20 # Default number of pages per page in pagination.
