@@ -1,5 +1,5 @@
 baseURL = "https://chicco182.github.io/stefanovalentini/"
-title = "Stefano Valentini's site"
+title = "Stefano Valentini"
 theme = "coder"
 languagecode = "it"
 defaultcontentlanguage = "it" # The default content language.
