@@ -11,18 +11,18 @@ pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 pygmentsUseClasses = true # new add
 
-disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+disqusShortname = "chicco182" # Enable or disable Disqus.
 
 [params] # theme parameters
     author = "Stefano Valentini" # Author's name.
     info = "WEB ENGINEER" # Author's job title or info.
     description = "Stefano Valentini's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
-    avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "avatar_stefano2.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "© Stefano Valentini" # Add footer content
-    fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
-    fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
+    #fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
+    #fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
@@ -37,7 +37,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     # RTL support
     rtl = false
 
-    snsShare = true # new add
+    snsShare = false # new add
 
     thumbnail = "images/tn.png" # default sns thumbnail
 
@@ -50,19 +50,24 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     weight = 1
     url = "https://github.com/chicco182/"
 [[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/stefanovalentini82/"
+[[params.social]]
     name = "Twitter"
     weight = 2
     url = "https://twitter.com/Valentini1982/"
 [[params.social]]
-    name = "LinkedIn"
-    weight = 3
-    url = "https://www.linkedin.com/in/stefanovalentini82/"
+    name = "Instagram"
+    weight = 2
+    url = "https://www.instagram.com/stefanovalentini82/"
+
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Projects"
     weight = 1
-    url  = "posts"
+    url  = "projects"
 [[menu.main]]
     name = "About"
     weight = 2
