@@ -6,10 +6,28 @@
     <description>Recent content on StefanoValentini.life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 16 Aug 2017 15:59:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 20:18:26 +0200</lastBuildDate>
     
 	<atom:link href="https://stefanovalentini.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog Traccia Prezzo</title>
+      <link>https://stefanovalentini.netlify.com/projects/blog-traccia-prezzo/</link>
+      <pubDate>Wed, 16 Aug 2017 20:18:26 +0200</pubDate>
+      
+      <guid>https://stefanovalentini.netlify.com/projects/blog-traccia-prezzo/</guid>
+      <description>  Blog di tecnologia, con news, recensioni, consigli per gli acquisti.  </description>
+    </item>
+    
+    <item>
+      <title>Bot Telegram Traccia Prezzo</title>
+      <link>https://stefanovalentini.netlify.com/projects/bot-telegram-traccia-prezzo/</link>
+      <pubDate>Wed, 16 Aug 2017 20:12:24 +0200</pubDate>
+      
+      <guid>https://stefanovalentini.netlify.com/projects/bot-telegram-traccia-prezzo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TracciaPrezzo</title>

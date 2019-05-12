@@ -3,15 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stefanovalentini.netlify.com/projects/blog-traccia-prezzo/</loc>
+    <lastmod>2017-08-16T20:18:26+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stefanovalentini.netlify.com/projects/</loc>
-    <lastmod>2017-08-16T15:59:54+02:00</lastmod>
+    <lastmod>2017-08-16T20:18:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stefanovalentini.netlify.com/</loc>
-    <lastmod>2017-08-16T15:59:54+02:00</lastmod>
+    <lastmod>2017-08-16T20:18:26+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stefanovalentini.netlify.com/projects/bot-telegram-traccia-prezzo/</loc>
+    <lastmod>2017-08-16T20:12:24+02:00</lastmod>
   </url>
   
   <url>
