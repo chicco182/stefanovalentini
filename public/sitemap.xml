@@ -4,7 +4,13 @@
   
   <url>
     <loc>https://stefanovalentini.life/about/</loc>
-    <lastmod>2019-05-14T15:53:16+02:00</lastmod>
+    <lastmod>2019-05-14T16:11:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefanovalentini.life/</loc>
+    <lastmod>2019-05-14T16:11:19+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -14,12 +20,6 @@
   
   <url>
     <loc>https://stefanovalentini.life/projects/</loc>
-    <lastmod>2017-08-16T20:18:26+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefanovalentini.life/</loc>
     <lastmod>2017-08-16T20:18:26+02:00</lastmod>
     <priority>0</priority>
   </url>
