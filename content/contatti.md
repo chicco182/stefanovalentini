@@ -4,7 +4,7 @@ date: 2019-05-20T15:23:49+02:00
 draft: false
 ---
 <h2>Usa il seguente modulo per proporre idee, collaborazioni oppure suggerimenti. </h2>
-<form action="https://formspree.io/email@domain.tld" method="POST" />
+<form action="https://formspree.io/email@domain.tld" method="POST">
 <div class="row">
     <div class="column col-6">
         <div class="form-group">
