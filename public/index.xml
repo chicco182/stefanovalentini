@@ -6,10 +6,19 @@
     <description>Recent content on StefanoValentini.life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 20 May 2019 15:23:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 20:15:49 +0200</lastBuildDate>
     
 	<atom:link href="https://stefanovalentini.life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prova</title>
+      <link>https://stefanovalentini.life/prova/</link>
+      <pubDate>Mon, 20 May 2019 20:15:49 +0200</pubDate>
+      
+      <guid>https://stefanovalentini.life/prova/</guid>
+      <description>Usa il seguente modulo per proporre idee, collaborazioni oppure suggerimenti.  Nome  E-Mail  Messaggio      </description>
+    </item>
     
     <item>
       <title>Contatti</title>
@@ -17,7 +26,7 @@
       <pubDate>Mon, 20 May 2019 15:23:49 +0200</pubDate>
       
       <guid>https://stefanovalentini.life/contatti/</guid>
-      <description>Usa il seguente modulo per proporre idee, collaborazioni oppure suggerimenti.  Nome  E-Mail  Messaggio</description>
+      <description>Usa il seguente modulo per proporre idee, collaborazioni oppure suggerimenti.  Nome  E-Mail  Messaggio      </description>
     </item>
     
     <item>
