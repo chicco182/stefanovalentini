@@ -6,10 +6,19 @@
     <description>Recent content on StefanoValentini.life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 24 May 2019 22:20:58 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 22:28:49 +0200</lastBuildDate>
     
 	<atom:link href="https://stefanovalentini.life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Porcodio</title>
+      <link>https://stefanovalentini.life/porcodio/</link>
+      <pubDate>Fri, 24 May 2019 22:28:49 +0200</pubDate>
+      
+      <guid>https://stefanovalentini.life/porcodio/</guid>
+      <description>Dio cane</description>
+    </item>
     
     <item>
       <title>Pagina</title>
