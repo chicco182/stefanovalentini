@@ -69,6 +69,10 @@ disqusShortname = "chicco182" # Enable or disable Disqus.
     weight = 1
     url  = "projects"
 [[menu.main]]
+    name = "Contatti"
+    weight = 1
+    url  = "contatti"
+[[menu.main]]
     name = "About"
     weight = 2
     url = "about"

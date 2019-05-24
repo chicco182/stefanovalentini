@@ -1,6 +1,27 @@
 ---
-title: "Contatti"
-date: 2019-05-20T15:23:49+02:00
+title: "Prova"
+date: 2019-05-20T20:15:49+02:00
 draft: true
 ---
-Prova
+<div class="row">
+    <h2>Usa il seguente modulo per proporre idee, collaborazioni oppure suggerimenti. </h2>
+    <form action="https://formspree.io/email@domain.tld" method="POST">
+        <div class="column col-6">
+            <div class="form-group">
+                <label>Nome</label>
+                <input type="text" name="name" id="name">
+            </div>
+            <div class="form-group">
+                <label>E-Mail</label>
+                <input type="email" name="email" id="email">
+            </div>
+            <div class="form-group">
+                <label>Messaggio</label>
+                <textarea name="message" id="message">
+            </div>
+            <div class="form-group">
+                <input type="submit" name="submit" value="Invia">
+            </div>
+        </div>
+    </form>
+</div>
