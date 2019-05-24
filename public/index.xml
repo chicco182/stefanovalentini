@@ -6,10 +6,19 @@
     <description>Recent content on StefanoValentini.life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 20 May 2019 20:15:49 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 22:20:58 +0200</lastBuildDate>
     
 	<atom:link href="https://stefanovalentini.life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pagina</title>
+      <link>https://stefanovalentini.life/pagina/</link>
+      <pubDate>Fri, 24 May 2019 22:20:58 +0200</pubDate>
+      
+      <guid>https://stefanovalentini.life/pagina/</guid>
+      <description>Prova di pagina</description>
+    </item>
     
     <item>
       <title>Prova</title>
