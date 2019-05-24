@@ -3,19 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stefanovalentini.life/pagina/</loc>
-    <lastmod>2019-05-24T22:20:58+02:00</lastmod>
+    <loc>https://stefanovalentini.life/about/</loc>
+    <lastmod>2019-05-14T16:11:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://stefanovalentini.life/</loc>
-    <lastmod>2019-05-24T22:20:58+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefanovalentini.life/about/</loc>
     <lastmod>2019-05-14T16:11:19+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
