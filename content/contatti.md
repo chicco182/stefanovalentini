@@ -3,6 +3,7 @@ title: "Contatti"
 date: 2019-05-20T15:23:49+02:00
 draft: false
 ---
+<!--
 <div class="row">
 <h2>Usa il seguente modulo per proporre idee, collaborazioni oppure suggerimenti. </h2>
 <form action="https://formspree.io/email@domain.tld" method="POST">
@@ -26,3 +27,6 @@ draft: false
 </form>
 </div>
 
+-->
+
+Prova
