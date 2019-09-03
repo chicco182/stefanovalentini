@@ -15,7 +15,7 @@ disqusShortname = "chicco182" # Enable or disable Disqus.
 
 [params] # theme parameters
     author = "Stefano Valentini" # Author's name.
-    info = "WEB ENGINEER" # Author's job title or info.
+    info = "COMPUTER ENGINEER" # Author's job title or info.
     description = "Stefano Valentini's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "avatar_stefano2.jpg" # Contain the path of the optionnal avatar in the static folder.
