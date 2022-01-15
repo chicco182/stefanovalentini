@@ -5,4 +5,4 @@ draft: false
 ---
 Bot su Telegram che permette agli utenti di cercare prodotti Amazon e tracciarne il prezzo. Il bot invierà un messaggio agli utenti ogni volta che il prezzo del prodotto Amazon interessato scende.
 
-[BOT TELEGRAM di TracciaPrezzo.it] (https://web.telegram.org/traccia_prezzo_bot)
+[BOT TELEGRAM "Traccia Prezzo Bot"] (https://t.me/traccia_prezzo_bot)
